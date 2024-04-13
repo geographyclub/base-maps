@@ -1,5 +1,5 @@
 # base-maps
-Color hillshade rasters made by combining elevation and multiple levels of hydrobasins -- georeferenced for developers.
+Color hillshade rasters made by combining elevation and hydrobasins -- georeferenced for developers.
 
 ## Downloads
 
