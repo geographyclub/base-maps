@@ -15,3 +15,13 @@ For example, to reproject a raster with gdal:
 ```shell
 gdalwarp -s_srs 'EPSG:4326' -t_srs <target_srs> nairobi-kenya.png nairobi-kenya.tif
 ```
+
+## Data Sources
+
+[HydroATLAS](https://www.hydrosheds.org/hydroatlas)
+
+[Natural Earth](https://www.naturalearthdata.com/downloads/)
+
+[SRTM Topography](https://catalog.data.gov/dataset/srtm15_plus-estimated-topography-15-seconds-global-v1)
+
+[WWF Ecoregions](https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world)
