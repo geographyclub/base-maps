@@ -1,11 +1,11 @@
 # base-maps
-Colored hillshade rasters made for designers, georeferenced for developers.
+Color hillshade rasters made by combining elevation and multiple levels of hydrobasins -- georeferenced for developers.
 
 ## Downloads
 
 Browse files here:
 
-[Hillshade directory](https://github.com/geographyclub/base-maps/tree/main/hillshade/)
+[Main directory](https://github.com/geographyclub/base-maps/tree/main/hillshade/)
 
 ## For Developers
 
