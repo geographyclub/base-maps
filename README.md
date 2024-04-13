@@ -1,5 +1,5 @@
 # base-maps
-Georeferenced hillshade rasters.
+Colored hillshade rasters made for designers, georeferenced for developers.
 
 ## Downloads
 
