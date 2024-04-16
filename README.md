@@ -1,11 +1,18 @@
 # base-maps
-Color hillshade rasters made by combining elevation and hydrobasins -- georeferenced for developers.
+
+My library of ready-to-use base maps.
+
+Color hillshade rasters made by combining elevation and hydrobasins.
+
+Svg files of popular geographic datasets.
 
 ## Downloads
 
-Browse files here:
+Browse files by category:
 
-[Main directory](https://github.com/geographyclub/base-maps/tree/main/hillshade/)
+[Hillshade](https://github.com/geographyclub/base-maps/tree/main/hillshade/)
+
+[Svg](https://github.com/geographyclub/base-maps/tree/main/svg/)
 
 ## For Developers
 
