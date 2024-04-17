@@ -2,7 +2,7 @@
 
 My library of ready-to-use base maps.
 
-Color hillshade rasters made by combining elevation and hydrobasins.
+Hillshade rasters made by combining elevation and hydrobasins.
 
 Svg files of popular geographic datasets.
 
@@ -11,6 +11,8 @@ Svg files of popular geographic datasets.
 Browse files by category:
 
 [Hillshade](https://github.com/geographyclub/base-maps/tree/main/hillshade/)
+
+[Hillshade Color](https://github.com/geographyclub/base-maps/tree/main/hillshade_color/)
 
 [Svg](https://github.com/geographyclub/base-maps/tree/main/svg/)
 
